@@ -1,6 +1,6 @@
 #  Iris Flower Classification - Complete ML Pipeline
 
-[![Live Demo](https://huggingface.co/spaces/ulubey/iris-flower-classifier)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/ulubey/iris-flower-classifier)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
