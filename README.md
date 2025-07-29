@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 #  Iris Flower Classification - Complete ML Pipeline
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/yourusername/iris-flower-classifier)
+[![Live Demo](https://huggingface.co/spaces/ulubey/iris-flower-classifier)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -28,7 +27,7 @@ This project implements a complete machine learning workflow including:
 
 ##  Live Demo
 
-**Try the live application:** [Iris Classifier Web App](https://huggingface.co/spaces/yourusername/iris-flower-classifier)
+**Try the live application:** [Iris Classifier Web App](https://huggingface.co/spaces/ulubey/iris-flower-classifier)
 
 Enter flower measurements and get instant species predictions with confidence scores!
 
@@ -260,13 +259,6 @@ Visit the live demo and try these examples:
 - **Versicolor**: 6.4, 3.2, 4.5, 1.5  
 - **Virginica**: 6.3, 3.3, 6.0, 2.5
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
 
 ## 📄 License
 
@@ -279,10 +271,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Gradio** for easy-to-use web interface framework
 - **Hugging Face** for free model hosting and deployment
 
-## 📧 Contact
-
-**Project Link**: [https://github.com/yourusername/iris-classification](https://github.com/yourusername/iris-classification)
-
-**Live Demo**: [https://huggingface.co/spaces/yourusername/iris-flower-classifier](https://huggingface.co/spaces/yourusername/iris-flower-classifier)
+**Live Demo**: [https://huggingface.co/spaces/yourusername/iris-flower-classifier](https://huggingface.co/spaces/ulubey/iris-flower-classifier)
 
 
