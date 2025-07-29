@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🌸 Iris Flower Classification - Complete ML Pipeline
+#  Iris Flower Classification - Complete ML Pipeline
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/yourusername/iris-flower-classifier)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
@@ -7,7 +7,7 @@
 
 A comprehensive end-to-end machine learning pipeline for classifying Iris flowers into three species (Setosa, Versicolor, Virginica) based on their physical measurements. This project demonstrates modern ML best practices from data analysis to production deployment.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project implements a complete machine learning workflow including:
 - **Data Analysis & Visualization** - Comprehensive EDA with 5 different chart types
@@ -16,17 +16,17 @@ This project implements a complete machine learning workflow including:
 - **Model Optimization** - Hyperparameter tuning with GridSearchCV
 - **Production Deployment** - Interactive web interface with Gradio
 
-## ✨ Key Features
+##  Key Features
 
-- 🔍 **Comprehensive Data Analysis**: Missing values, correlations, statistical summaries
-- 📊 **Advanced Visualizations**: Heatmaps, pair plots, feature importance, distributions
-- 🛠️ **Feature Engineering**: 14 engineered features with selection and scaling
-- 🤖 **Multiple ML Models**: 9 algorithms compared (SVM, Random Forest, etc.)
-- ⚙️ **Hyperparameter Optimization**: Grid search for best performance
-- 🌐 **Interactive Web App**: Real-time predictions with educational tooltips
-- 📦 **Production Ready**: Saved models and preprocessors for deployment
+-  **Comprehensive Data Analysis**: Missing values, correlations, statistical summaries
+-  **Advanced Visualizations**: Heatmaps, pair plots, feature importance, distributions
+-  **Feature Engineering**: 14 engineered features with selection and scaling
+-  **Multiple ML Models**: 9 algorithms compared (SVM, Random Forest, etc.)
+-  **Hyperparameter Optimization**: Grid search for best performance
+-  **Interactive Web App**: Real-time predictions with educational tooltips
+-  **Production Ready**: Saved models and preprocessors for deployment
 
-## 🚀 Live Demo
+##  Live Demo
 
 **Try the live application:** [Iris Classifier Web App](https://huggingface.co/spaces/yourusername/iris-flower-classifier)
 
@@ -285,8 +285,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Live Demo**: [https://huggingface.co/spaces/yourusername/iris-flower-classifier](https://huggingface.co/spaces/yourusername/iris-flower-classifier)
 
----
-*Built with ❤️ using Python, scikit-learn, and Gradio* 
-=======
-# iris-classification
->>>>>>> 9cc3cf910540559c36d6162f66ee481306a842f7
+
