@@ -260,9 +260,6 @@ Visit the live demo and try these examples:
 - **Virginica**: 6.3, 3.3, 6.0, 2.5
 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
